@@ -1,6 +1,5 @@
 :root {
     --primary-color: #0468BF; /* Sapphire Blue */
-    --Secondary-color: #6BBEF2; /* Ocean Boat Blue */
     --accent1-color: #4F8C6F; /* Molly Robins */
     --accent2-color: #2C4001; /* Dark Olive */
     --heading-font: "Segoe-UI", "Arial", serif; 
@@ -58,7 +57,7 @@ h1 {
     color: #fff; 
 }
 
-article {
+.hero article {
     position: absolute;
     width: 100%;
     background-color: var(--primary-color);
